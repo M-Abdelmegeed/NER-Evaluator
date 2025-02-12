@@ -6,9 +6,9 @@ setup(
     author="Mohammed Abdelmegeed",
     author_email="m.maguid9@hotmail.com",
     description="A Python package for Named Entity Recognition Evaluation.",
-    long_description=open("README.md").read(),
+    long_description=open("README.MD").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/M-Abdelmegeed/named_entity_evaluator",
+    url="https://github.com/M-Abdelmegeed/NER-Evaluator",
     packages=find_packages(),
     install_requires=[
         "pandas",
