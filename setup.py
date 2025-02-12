@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="named_entity_evaluator",
-    version="0.2.0",
+    version="0.3.0",
     author="Mohammed Abdelmegeed",
     author_email="m.maguid9@hotmail.com",
     description="A Python package for Named Entity Recognition Evaluation.",
